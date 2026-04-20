@@ -85,8 +85,8 @@ Examples include:
 
 ```markdown
 
-[Dashboard 1](your-image-name.png)
-![Dashboard 2](your-image-name.png)
+[Dashboard 1](Dashbord.png)
+![Dashboard 2](Same_Period_Last_Year_Report.png)
 ```
 
 ---
